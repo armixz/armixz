@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="GIF.gif">
+  <img src="ztf_bh_merger_webready.original.jpg">
 </p>
 
 ---
